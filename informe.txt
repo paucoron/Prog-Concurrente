@@ -16,3 +16,5 @@ Recorrido de la persona:
 
 editado en git
 
+editado en compu
+
