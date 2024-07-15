@@ -14,5 +14,5 @@ Mecanismos de sincronización:
 Recorrido de la persona:
 
 
-
+editado en git
 
